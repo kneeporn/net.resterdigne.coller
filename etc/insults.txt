@@ -8,6 +8,7 @@ Sponte-decompo
 Laquais de la presse bourgeoise
 Apparatchik rampant
 Parlementaire putride
+Encravaté débilos
 Fossoyeur de la Révolution
 Anarchiste petit-bourgeois
 Vérole du mouvement ouvrier
@@ -15,30 +16,35 @@ Bifteckard stalinien
 Clown social-démocrate
 Larbin servile du patronat
 Fasciste
+Sexiste inconcsient
 Agent provocateur
 Rentier de gauche
 Social-traître
 Arriviste jaune
 STAL
 Menchevik
-Va t'acheter des couilles
+Va t'acheter du fric
 Mytho
 Idiot utile
 Mouche de latrines
-Petite bite
+Bite Molle
 Connasse géante
+Connard immense
 Va chier dans ta caisse
 Va faire ton art-thérapie
 Merde humaine
 Peloteur de stagiaires
+Peloteuse de stagiaires
+ignard servil
 Prolo de droite
 Patron de gauche
-Retourne dans le con de ta mère
+Retourne dans les couilles de ton connard de père
 Ringard
 Guérillero de canapé
-T'étais moins con tu buvais
+T'étais moins con quand tu buvais
+T'etais moins conne quand tu te droguais
 Boloss
-Que Dieu casse sa bite dans ton cul
+Que Dieu casse sa bite dans ton nez
 Charogne
 Fais-toi stériliser
 Ennemi du genre humain
@@ -49,20 +55,23 @@ Va mourir bâtard
 Sale poulpe
 Potiron sur une berge
 Benêt
+Raclure incompétente 
 Va aux Enfers
 Crève en mordant ton propre nombril
 Pisseux
 Bite crasseuse
 Crève en heurtant la tête contre du tofu
 Bonze morveux
-J'ai le nombril inversé de ta mère
+J'ai le nombril inversé de ton père
 Petit ogre pourri
+Petite ogresse moisie
 T'es trop nul pour mourrir
 Tu me fais chier
 Tu mourras seule
 Perds toute illusion
 C'est foutu
 Personne ne t'aime
+Tu fais trop pitié
 Tu gênes tout le monde
 La fin est proche
 Ça va mal se passer
@@ -77,16 +86,20 @@ Fritte molle
 Tu rêves pauvre merde
 Va chercher du boulot
 Jette-toi sous un train
+Va te suicider
 Pauvre minable
 Cul pourri
+trouve toi un job connasse
+va t'acheter un job
 Sale bourge
 Merde humaine
 Cafard de vernissage
 Charogne
 Faux-derche
 Fin de race
-Salope du côté obscur
-Crève salope
+Couillon du côté obscur
+Crève Couillon
+existence de minable
 Gros colon
 Poche-molle
 Ostie d'mongol
@@ -111,12 +124,15 @@ Va te recoucher
 Ouvre une bouteille
 En prison, affaire suivante
 Fusillez-moi ça
-Que l'ampoule t'encule
-Je te chie dessus
+Que l'ampoule t'entube
+Je te chie dessus 
 Merde éparpillée
 Truie du Diable
+Porc de Satan
 Vache conne
+Vache Folle
 Con comme une clôture
+conne comme une barrière 
 Fascist bastard
 Fish face
 NON
@@ -129,3 +145,28 @@ Milicienne du Capital
 Tu mourras seul
 Trou de bite
 Désolant
+GUILLOTINE
+Suicide toi lentement 
+Pet foireux
+Prout de mammouth
+impétueuse & incompétente 
+impétueux & incompétent 
+fils du patrimoine
+Fille du patrimoine
+Sale forceur 
+Ferme-la un peu
+Gros porc
+on veut pas payer ton prix
+chauvin patriarche
+Patriarche de merde
+Esprit Malade
+Grosse merde d'hétéro blanc 
+HETERO BLANC
+aldente pour guillotine
+T'as pas d'amis
+Sale Blanc en col Blanc
+Fan de Mauvais Jazz 
+Médiocre
+Existence Honteuse
+VENDUE A VENDRE
+VENDU A VENDRE
